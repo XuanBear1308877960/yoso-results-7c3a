@@ -1,0 +1,4 @@
+site,median_m,mean_m,p90_m,p95_m
+Map1 (original),0.5882,0.7205,1.4443,1.7012
+Map2 (zero updates),0.76,0.786,1.388,1.429
+Map3 (zero updates),0.649,0.815,1.472,1.75

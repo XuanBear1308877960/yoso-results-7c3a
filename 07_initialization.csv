@@ -1,0 +1,4 @@
+start_setting,initialization_median_m,tracking_median_m,tracking_mean_m,tracking_p90_m,tracking_p95_m
+known_start,0,0.5882,0.7205,1.4443,1.7012
+5s,0.785,0.6967,0.7893,1.4187,1.6479
+2s,1.051,0.7167,0.8623,1.6762,2.0156

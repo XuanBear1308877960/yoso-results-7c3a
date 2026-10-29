@@ -1,0 +1,7 @@
+method,median_latency_ms,p95_latency_ms,peak_rss_mb
+ULFT,7.59,8.89,663.1
+TCA,20.01,24.56,829.1
+MetaLoc,15.06,23.27,461.4
+WiDAGCN,1375.09,1526.03,940.4
+iToLoc,954.17,981.93,452.1
+YOSO,561.8,844.09,479.2
